@@ -1,8 +1,8 @@
 cask "middleclick-poltak" do
-  version "0.1.2"
-  sha256 "c162331654170691f0f621f6e3e9a84adda440a668a478f524ac86ff16049775"
+  version "0.2.0"
+  sha256 "a314b2c91f7244b96146ba7ecab278b5c1eef08fdb9611a6672246a12a59cb03"
 
-  url "https://github.com/poltak/middleclick/releases/download/v0.1.2/MiddleClick.app.zip",
+  url "https://github.com/poltak/middleclick/releases/download/v0.2.0/MiddleClick.app.zip",
       verified: "github.com/poltak/"
   name "MiddleClick"
   desc "Three-finger trackpad click/tap to middle click remapper"
